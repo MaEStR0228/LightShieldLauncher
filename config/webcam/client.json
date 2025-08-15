@@ -1,0 +1,16 @@
+{
+  "packet_buffer_size": 50,
+  "max_bitrate": 5000,
+  "hud": {
+    "icon_x": 32.0,
+    "icon_y": -16.0,
+    "icon_scale": 1.0
+  },
+  "show_icons": true,
+  "max_devices": 5,
+  "selected_device": 0,
+  "webcam_resolution": "1280x720",
+  "webcam_fps": 30,
+  "show_webcams": true,
+  "webcam_enabled": false
+}
