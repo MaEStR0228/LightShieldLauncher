@@ -1,8 +1,0 @@
-{
-  "launcher_version": "1.0.0",
-  "launcher_download_url": "https://github.com/username/your-repo/releases/latest/download/LightShieldLauncher.exe",
-  "files_version": "1.0.0",
-  "files_download_url": "https://github.com/username/your-repo/archive/main.zip",
-  "description": "Light Shield Launcher - Minecraft Fabric 1.21.5",
-  "release_notes": "Первая версия лаунчера с системой вайтлиста и автоматическими обновлениями"
-}
